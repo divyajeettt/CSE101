@@ -9,4 +9,4 @@
 
 ## About this repository
 
-This repository contains the solutions to all assignments given in the duration of the course.
+This repository contains the solutions to all assignments (and some labs) given in the duration of the course.
